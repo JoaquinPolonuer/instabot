@@ -1,6 +1,6 @@
 from instapy import InstaPy
 
-session = InstaPy(username="yourprints3d", password="megapolo10")
+session = InstaPy(username="", password="")
 session.login()
 a = session.like_by_tags(["3dprint", "impresion3d"], amount=5)
 print(a)
