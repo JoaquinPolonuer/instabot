@@ -1,0 +1,548 @@
+INFO [2020-09-18 17:03:43] [yourprints3d]  Session started!
+INFO [2020-09-18 17:03:43] [yourprints3d]  -- Connection Checklist [1/2] (Internet Connection Status)
+INFO [2020-09-18 17:03:43] [yourprints3d]  - Internet Connection Status: ok
+INFO [2020-09-18 17:03:43] [yourprints3d]  - Current IP is "201.235.129.182" and it's from "Argentina/AR"
+INFO [2020-09-18 17:03:43] [yourprints3d]  -- Connection Checklist [2/2] (Hide Selenium Extension)
+INFO [2020-09-18 17:03:43] [yourprints3d]  - window.navigator.webdriver response: None
+INFO [2020-09-18 17:03:43] [yourprints3d]  - Hide Selenium Extension: ok
+INFO [2020-09-18 17:04:24] [yourprints3d]  Timed out with failure while explicitly waiting until title contains 'Login' string!
+
+INFO [2020-09-18 17:04:46] [yourprints3d]  Logged in successfully!
+INFO [2020-09-18 17:04:46] [yourprints3d]  Saving account progress...
+INFO [2020-09-18 17:05:06] [yourprints3d]  Total of links feched for analysis: 8
+INFO [2020-09-18 17:05:06] [yourprints3d]  ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO [2020-09-18 17:05:06] [yourprints3d]  ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO [2020-09-18 17:05:06] [yourprints3d]  New link found...
+INFO [2020-09-18 17:05:06] [yourprints3d]  [0 posts liked /10 amount]
+INFO [2020-09-18 17:05:06] [yourprints3d]  https://www.instagram.com/p/CFQq1qZJaQS/
+INFO [2020-09-18 17:05:10] [yourprints3d]  Image from: b'matterhackers'
+INFO [2020-09-18 17:05:10] [yourprints3d]  Link: b'https://www.instagram.com/p/CFQq1qZJaQS/'
+INFO [2020-09-18 17:05:10] [yourprints3d]  Description: b'Get the filament you need for any project from our extensive selection of over 1000 materials. Get basics like PLA and ABS as well as advanced materials like NylonX, PEEK, and glass-fiber infused polypropylene. (Model by Eric Harrell See all the filament you need at MatterHackers.com'
+INFO [2020-09-18 17:05:10] [yourprints3d]  Location: b'MatterHackers, Inc.'
+INFO [2020-09-18 17:05:14] [yourprints3d]  User: 'matterhackers'  |> followers: 100879  |> following: 311  |> relationship ratio: 324.36
+INFO [2020-09-18 17:05:14] [yourprints3d]  User 'matterhackers's followers count exceeds maximum limit  ~skipping user
+
+WARNING [2020-09-18 17:05:14] [yourprints3d]  Post Randomly Skipped...
+
+INFO [2020-09-18 17:05:14] [yourprints3d]  New link found...
+INFO [2020-09-18 17:05:14] [yourprints3d]  [0 posts liked /10 amount]
+INFO [2020-09-18 17:05:14] [yourprints3d]  https://www.instagram.com/p/CFQGQqTj72q/
+INFO [2020-09-18 17:05:17] [yourprints3d]  Image from: b'inov3d'
+INFO [2020-09-18 17:05:17] [yourprints3d]  Link: b'https://www.instagram.com/p/CFQGQqTj72q/'
+INFO [2020-09-18 17:05:17] [yourprints3d]  Description: b'Wow what do you guys think of our team member @ftomarts painting \xe2\x9d\xa4\xef\xb8\x8f\n\n#wizkids #wizkidsminiatures #ghostofsaltmarsh #rpg #rpgbrasil #rpgdemesa #pintandominiaturas #nolzursmarvelousminiatures #nolzurs #nolzursminis #pathfinderdeepcuts #dungeonsanddragons #rpgminiatures'
+INFO [2020-09-18 17:05:22] [yourprints3d]  User: 'inov3d'  |> followers: 4726  |> following: 1587  |> relationship ratio: 2.97
+INFO [2020-09-18 17:05:52] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:06:06] [yourprints3d]  --> Commented: b'Epico'
+WARNING [2020-09-18 17:06:59] [yourprints3d]  --> Couldn't follow 'inov3d'!	~user is inaccessible
+WARNING [2020-09-18 17:06:59] [yourprints3d]  Post Randomly Skipped...
+
+WARNING [2020-09-18 17:06:59] [yourprints3d]  Post Randomly Skipped...
+
+INFO [2020-09-18 17:06:59] [yourprints3d]  New link found...
+INFO [2020-09-18 17:06:59] [yourprints3d]  [1 posts liked /10 amount]
+INFO [2020-09-18 17:06:59] [yourprints3d]  https://www.instagram.com/p/CFLPGx8Dj9V/
+INFO [2020-09-18 17:07:02] [yourprints3d]  Image from: b'inov3d'
+INFO [2020-09-18 17:07:02] [yourprints3d]  Link: b'https://www.instagram.com/p/CFLPGx8Dj9V/'
+INFO [2020-09-18 17:07:02] [yourprints3d]  Description: b'TAGS:- \n#3dprinting #3dprintinglife #3dprintingnerd #3dprintingservice #3dprintingindustry #3dprintingideas #prostheticarm #3dprintingworld #3dprintingpen #3dprintingcommunity #robotica #roboticaeducativa #roboticaeducacional #robo\xcc\x81tica \n#electronicslovers #electronicstore #electronicsproject #electronicsengineer\n#technologyofindia #technologyart #technologyrules #instatechnology#3dprinting #3dprintinglife #3dprintingnerd #3dprintingservice #3dprintingindustry #3dprintingideas\n\n@anycubic'
+INFO [2020-09-18 17:07:05] [yourprints3d]  User: 'inov3d'  |> followers: 4726  |> following: 1587  |> relationship ratio: 2.97
+INFO [2020-09-18 17:07:36] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:07:48] [yourprints3d]  --> Commented: b'Me encantaaa!'
+WARNING [2020-09-18 17:08:40] [yourprints3d]  --> Couldn't follow 'inov3d'!	~user is inaccessible
+INFO [2020-09-18 17:08:40] [yourprints3d]  New link found...
+INFO [2020-09-18 17:08:40] [yourprints3d]  [2 posts liked /10 amount]
+INFO [2020-09-18 17:08:40] [yourprints3d]  https://www.instagram.com/p/CFLVbEOJ1pE/
+INFO [2020-09-18 17:08:43] [yourprints3d]  Image from: b'matterhackers'
+INFO [2020-09-18 17:08:43] [yourprints3d]  Link: b'https://www.instagram.com/p/CFLVbEOJ1pE/'
+INFO [2020-09-18 17:08:43] [yourprints3d]  Description: b"Fillamentum materials are made with quality composites and consistent, vibrant colors to give your 3D prints that extra pop once they come off the build plate. Come check out Fillamentum's unique filament blends at MatterHackers.com"
+INFO [2020-09-18 17:08:43] [yourprints3d]  Location: b'MatterHackers, Inc.'
+INFO [2020-09-18 17:08:47] [yourprints3d]  User: 'matterhackers'  |> followers: 100879  |> following: 311  |> relationship ratio: 324.36
+INFO [2020-09-18 17:08:47] [yourprints3d]  User 'matterhackers's followers count exceeds maximum limit  ~skipping user
+
+INFO [2020-09-18 17:08:47] [yourprints3d]  New link found...
+INFO [2020-09-18 17:08:47] [yourprints3d]  [2 posts liked /10 amount]
+INFO [2020-09-18 17:08:47] [yourprints3d]  https://www.instagram.com/p/CFLOtVHjdYw/
+INFO [2020-09-18 17:08:50] [yourprints3d]  Image from: b'inov3d'
+INFO [2020-09-18 17:08:50] [yourprints3d]  Link: b'https://www.instagram.com/p/CFLOtVHjdYw/'
+INFO [2020-09-18 17:08:50] [yourprints3d]  Description: b'@mycusini thank you \nChocolates\n\nTAGS:- \n#3dprinting #3dprintinglife #3dprintingnerd #3dprintingservice #3dprintingindustry #3dprintingideas #prostheticarm #3dprintingworld #3dprintingpen #3dprintingcommunity #robotica #roboticaeducativa #roboticaeducacional #robo\xcc\x81tica \n#electronicslovers #electronicstore #electronicsproject #electronicsengineer\n#technologyofindia #technologyart #technologyrules #instatechnology#3dprinting #3dprintinglife #3dprintingnerd #3dprintingservice #3dprintingindustry #3dprintingideas'
+INFO [2020-09-18 17:08:54] [yourprints3d]  User: 'inov3d'  |> followers: 4726  |> following: 1587  |> relationship ratio: 2.97
+INFO [2020-09-18 17:09:23] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:09:26] [yourprints3d]  --> Not commented
+INFO [2020-09-18 17:09:26] [yourprints3d]  --> Already following 'inov3d'!
+
+INFO [2020-09-18 17:09:36] [yourprints3d]  Total of links feched for analysis: 7
+INFO [2020-09-18 17:09:36] [yourprints3d]  ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO [2020-09-18 17:09:36] [yourprints3d]  ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WARNING [2020-09-18 17:09:36] [yourprints3d]  Post Randomly Skipped...
+
+WARNING [2020-09-18 17:09:36] [yourprints3d]  Post Randomly Skipped...
+
+INFO [2020-09-18 17:09:36] [yourprints3d]  New link found...
+INFO [2020-09-18 17:09:36] [yourprints3d]  [3 posts liked /10 amount]
+INFO [2020-09-18 17:09:36] [yourprints3d]  https://www.instagram.com/p/CFLPPIAj9cA/
+INFO [2020-09-18 17:09:38] [yourprints3d]  Image from: b'inov3d'
+INFO [2020-09-18 17:09:38] [yourprints3d]  Link: b'https://www.instagram.com/p/CFLPPIAj9cA/'
+INFO [2020-09-18 17:09:38] [yourprints3d]  Description: b'TAGS:- \n#3dprinting #3dprintinglife #3dprintingnerd #3dprintingservice #3dprintingindustry #3dprintingideas #prostheticarm #3dprintingworld #3dprintingpen #3dprintingcommunity #robotica #roboticaeducativa #roboticaeducacional #robo\xcc\x81tica \n#electronicslovers #electronicstore #electronicsproject #electronicsengineer\n#technologyofindia #technologyart #technologyrules #instatechnology#3dprinting #3dprintinglife #3dprintingnerd #3dprintingservice #3dprintingindustry #3dprintingideas\n@dragonresin'
+INFO [2020-09-18 17:09:42] [yourprints3d]  User: 'inov3d'  |> followers: 4726  |> following: 1587  |> relationship ratio: 2.97
+INFO [2020-09-18 17:10:13] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:10:14] [yourprints3d]  Quota Supervisor: jumped a comment out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:10:14] [yourprints3d]  --> Already following 'inov3d'!
+
+WARNING [2020-09-18 17:10:15] [yourprints3d]  Post Randomly Skipped...
+
+WARNING [2020-09-18 17:10:15] [yourprints3d]  Post Randomly Skipped...
+
+INFO [2020-09-18 17:10:15] [yourprints3d]  New link found...
+INFO [2020-09-18 17:10:15] [yourprints3d]  [4 posts liked /10 amount]
+INFO [2020-09-18 17:10:15] [yourprints3d]  https://www.instagram.com/p/CFSYM3pIbFF/
+INFO [2020-09-18 17:10:19] [yourprints3d]  Image from: b'myminifactory'
+INFO [2020-09-18 17:10:19] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSYM3pIbFF/'
+INFO [2020-09-18 17:10:19] [yourprints3d]  Description: b"This #3Ddesign is sharp and to the point \xe2\x9c\x8f\xef\xb8\x8f\n-\nCheck out @skeletonbolts #3Dprinted pencil sharpener design \xf0\x9f\x98\x8d It's not just wonderful to look at, but also functional! Perfect for your #homeoffice and for anyone looking to keep their desk tidy in style \xf0\x9f\x98\x8e\n-\nLink in the bio!\n-\nhttps://www.myminifactory.com/object/3d-print-pencil-sharpener-desk-tidy-5859\n-\n-\n-\n-\n-\n#3Dprinting #3Dart #designinspiration #design #3Dmodel #3Dmodels #3Dprint #3Dprinter #3dartist #3Dworld #myminifactory #3Dprintedmodels #printing3d #3Dprinterworld #backtoschool #officespace #workingfromhome #officedesign #officesetup"
+INFO [2020-09-18 17:10:19] [yourprints3d]  Location: b'Working from Home'
+INFO [2020-09-18 17:10:23] [yourprints3d]  User: 'myminifactory'  |> followers: 93392  |> following: 2132  |> relationship ratio: 43.8
+INFO [2020-09-18 17:10:23] [yourprints3d]  User 'myminifactory's followers count exceeds maximum limit  ~skipping user
+
+WARNING [2020-09-18 17:10:23] [yourprints3d]  Post Randomly Skipped...
+
+INFO [2020-09-18 17:10:32] [yourprints3d]  Total of links feched for analysis: 8
+INFO [2020-09-18 17:10:33] [yourprints3d]  ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO [2020-09-18 17:10:33] [yourprints3d]  ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WARNING [2020-09-18 17:10:33] [yourprints3d]  Post Randomly Skipped...
+
+WARNING [2020-09-18 17:10:33] [yourprints3d]  Post Randomly Skipped...
+
+INFO [2020-09-18 17:10:33] [yourprints3d]  This link has already been visited: https://www.instagram.com/p/CFSYM3pIbFF/
+INFO [2020-09-18 17:10:33] [yourprints3d]  New link found...
+INFO [2020-09-18 17:10:33] [yourprints3d]  [4 posts liked /10 amount]
+INFO [2020-09-18 17:10:33] [yourprints3d]  https://www.instagram.com/p/CFSZYcPBUmL/
+INFO [2020-09-18 17:10:35] [yourprints3d]  Image from: b'velizstudio'
+INFO [2020-09-18 17:10:35] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSZYcPBUmL/'
+INFO [2020-09-18 17:10:35] [yourprints3d]  Description: b'La impresi\xc3\xb3n 3D nos permite realizar procesos que mediante otros m\xc3\xa9todos de fabricaci\xc3\xb3n ser\xc3\xadan muy dif\xc3\xadciles o incluso, imposibles.\n\n\xc2\xbfTe gustar\xc3\xada conocer m\xc3\xa1s sobre este y otros procesos?\nContact\xc3\xa1nos:\n\nWhatsapp 83021814 \xc3\xb3 DM\n\n#3dprint #impresion3d #additivemanufacturing #cura #fabrication #emblema #fabricacion #liberia #guanacaste #manufacture #gear #bnw #product #3d #3dprinting'
+INFO [2020-09-18 17:10:35] [yourprints3d]  Location: b'Guanacaste Province'
+INFO [2020-09-18 17:10:39] [yourprints3d]  User: 'velizstudio'  |> followers: 714  |> following: 472  |> relationship ratio: 1.51
+INFO [2020-09-18 17:11:09] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:11:11] [yourprints3d]  Quota Supervisor: jumped a comment out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:11:11] [yourprints3d]  --> Already following 'velizstudio'!
+
+WARNING [2020-09-18 17:11:12] [yourprints3d]  Post Randomly Skipped...
+
+INFO [2020-09-18 17:11:12] [yourprints3d]  New link found...
+INFO [2020-09-18 17:11:12] [yourprints3d]  [5 posts liked /10 amount]
+INFO [2020-09-18 17:11:12] [yourprints3d]  https://www.instagram.com/p/CFQGLSQDoIP/
+INFO [2020-09-18 17:11:14] [yourprints3d]  Image from: b'inov3d'
+INFO [2020-09-18 17:11:14] [yourprints3d]  Link: b'https://www.instagram.com/p/CFQGLSQDoIP/'
+INFO [2020-09-18 17:11:14] [yourprints3d]  Description: b'Wow what do you guys think of our team member @ftomarts painting \xe2\x9d\xa4\xef\xb8\x8f\n\n#tabletop #miniatures #ghostofsaltmarsh #rpg #rpgbrasil #rpgdemesa #pintandominiaturas #nolzursmarvelousminiatures #nolzurs #nolzursminis #pathfinderdeepcuts #dungeonsanddragons #rpgminiatures'
+INFO [2020-09-18 17:11:17] [yourprints3d]  User: 'inov3d'  |> followers: 4726  |> following: 1587  |> relationship ratio: 2.97
+INFO [2020-09-18 17:11:48] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:11:50] [yourprints3d]  --> Not commented
+INFO [2020-09-18 17:11:51] [yourprints3d]  --> Already following 'inov3d'!
+
+INFO [2020-09-18 17:11:52] [yourprints3d]  New link found...
+INFO [2020-09-18 17:11:52] [yourprints3d]  [6 posts liked /10 amount]
+INFO [2020-09-18 17:11:52] [yourprints3d]  https://www.instagram.com/p/CFO1gHJjGpY/
+INFO [2020-09-18 17:11:55] [yourprints3d]  Image from: b'inov3d'
+INFO [2020-09-18 17:11:55] [yourprints3d]  Link: b'https://www.instagram.com/p/CFO1gHJjGpY/'
+INFO [2020-09-18 17:11:55] [yourprints3d]  Description: b'#Repost @3d_printing_bird\n\xe2\x80\xa2 \xe2\x80\xa2 \xe2\x80\xa2 \xe2\x80\xa2 \xe2\x80\xa2 \xe2\x80\xa2\nMilton Keynes\n\nCurrent print in progress... American Craftsmen Bungalow. No Supports! Once printed, will be hand painted. Printed on CR-10S with all metal hotend using @robosavvyltd pink PLA and @anycubicofficial ultrabase build surface #3dprinting #3dprinted #3dprintingbird #notpinkforlong #CR10S #creality #allmetalhotend #nosupports #robosavvy #anycubic #ultrabase'
+INFO [2020-09-18 17:11:59] [yourprints3d]  User: 'inov3d'  |> followers: 4726  |> following: 1587  |> relationship ratio: 2.97
+INFO [2020-09-18 17:12:29] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:12:31] [yourprints3d]  --> Not commented
+INFO [2020-09-18 17:12:32] [yourprints3d]  --> Already following 'inov3d'!
+
+INFO [2020-09-18 17:12:33] [yourprints3d]  New link found...
+INFO [2020-09-18 17:12:33] [yourprints3d]  [7 posts liked /10 amount]
+INFO [2020-09-18 17:12:33] [yourprints3d]  https://www.instagram.com/p/CFSKR_bjEad/
+INFO [2020-09-18 17:12:36] [yourprints3d]  Image from: b'three_moons_printing'
+INFO [2020-09-18 17:12:36] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSKR_bjEad/'
+INFO [2020-09-18 17:12:36] [yourprints3d]  Description: b'The master sword... dagger is almost done! Just the scabbard left. What do you think? \n\n#mastersword #zelda #dice #dicestorage #dicedagger #3dprint #3dprinted #pla #prusa #prusamk3 #dnd #dungeonsanddragons #d&d #link #thelegendofzelda #triforce'
+INFO [2020-09-18 17:12:40] [yourprints3d]  User: 'three_moons_printing'  |> followers: 391  |> following: 349  |> relationship ratio: 1.12
+INFO [2020-09-18 17:13:32] [yourprints3d]  --> Image already liked!
+INFO [2020-09-18 17:13:44] [yourprints3d]  Total of links feched for analysis: 8
+INFO [2020-09-18 17:13:44] [yourprints3d]  ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO [2020-09-18 17:13:44] [yourprints3d]  ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO [2020-09-18 17:13:44] [yourprints3d]  New link found...
+INFO [2020-09-18 17:13:44] [yourprints3d]  [7 posts liked /10 amount]
+INFO [2020-09-18 17:13:44] [yourprints3d]  https://www.instagram.com/p/CFKVDeQJkpt/
+INFO [2020-09-18 17:13:48] [yourprints3d]  Image from: b'matterhackers'
+INFO [2020-09-18 17:13:48] [yourprints3d]  Link: b'https://www.instagram.com/p/CFKVDeQJkpt/'
+INFO [2020-09-18 17:13:48] [yourprints3d]  Description: b"Swapping your 3D printer's nozzle is one of the easiest upgrades that can be done. Find the right nozzles to add to your collection for your next project as well as how to change a nozzle on your 3D printer with our informative Nozzle Comparison Guide. Read the guide at MatterHackers.com"
+INFO [2020-09-18 17:13:48] [yourprints3d]  Location: b'MatterHackers, Inc.'
+INFO [2020-09-18 17:13:52] [yourprints3d]  User: 'matterhackers'  |> followers: 100879  |> following: 311  |> relationship ratio: 324.36
+INFO [2020-09-18 17:13:52] [yourprints3d]  User 'matterhackers's followers count exceeds maximum limit  ~skipping user
+
+INFO [2020-09-18 17:13:52] [yourprints3d]  New link found...
+INFO [2020-09-18 17:13:52] [yourprints3d]  [7 posts liked /10 amount]
+INFO [2020-09-18 17:13:52] [yourprints3d]  https://www.instagram.com/p/CFIo4pdpkke/
+INFO [2020-09-18 17:13:55] [yourprints3d]  Image from: b'matterhackers'
+INFO [2020-09-18 17:13:55] [yourprints3d]  Link: b'https://www.instagram.com/p/CFIo4pdpkke/'
+INFO [2020-09-18 17:13:55] [yourprints3d]  Description: b'Dremel is well-known in the tooling industry for creating top-of-the-line equipment that stands the test of time. Dremel has extended their extensive testing and product design into the realm of digital fabrication with the DigiLab series of 3D printers and laser cutters. Learn more about these amazing machines at MatterHackers.com'
+INFO [2020-09-18 17:13:55] [yourprints3d]  Location: b'MatterHackers, Inc.'
+INFO [2020-09-18 17:13:59] [yourprints3d]  User: 'matterhackers'  |> followers: 100879  |> following: 311  |> relationship ratio: 324.36
+INFO [2020-09-18 17:13:59] [yourprints3d]  User 'matterhackers's followers count exceeds maximum limit  ~skipping user
+
+INFO [2020-09-18 17:13:59] [yourprints3d]  New link found...
+INFO [2020-09-18 17:13:59] [yourprints3d]  [7 posts liked /10 amount]
+INFO [2020-09-18 17:13:59] [yourprints3d]  https://www.instagram.com/p/CFJ9t_FDv6H/
+INFO [2020-09-18 17:14:02] [yourprints3d]  Image from: b'inov3d'
+INFO [2020-09-18 17:14:02] [yourprints3d]  Link: b'https://www.instagram.com/p/CFJ9t_FDv6H/'
+INFO [2020-09-18 17:14:02] [yourprints3d]  Description: b'#Repost @3d_druckwerk_mk3s\n\xe2\x80\xa2 \xe2\x80\xa2 \xe2\x80\xa2 \xe2\x80\xa2 \xe2\x80\xa2 \xe2\x80\xa2\nWho knows Dumbo the elephant ? \xf0\x9f\x90\x98\n\nI am in love with this bright green filament \xf0\x9f\xa4\xa9\n\nTomorrow there will be another slightly larger project online, who of you is already looking forward to the post ? \n\nLittle tip, it has something to do with the Prusa \xf0\x9f\xa4\xa9\xf0\x9f\x94\xa5\n\n\xf0\x9f\x8e\xa8Filament: @fiberlogy_filaments\n\xf0\x9f\x96\xa8\xef\xb8\x8fPrinter: Prusa i3 MK3S\n\xf0\x9f\x93\x8fLayer: 0,15mm\n\xe2\x96\xb6\xef\xb8\x8fTime: 9h 28m\n\n#3dprinting #3d #3dprint #3dprinter #3dprinted #3ddesign #design #3dmodeling #3dmodel #ender #3dprints #pla #art #maker #diy #engineering #additivemanufacturing #3dart #technology #3dprinters #thingiverse #filament #prusa #prusai3 #covid #print #bhfyp #3dvirals  #makersgonnamake'
+INFO [2020-09-18 17:14:06] [yourprints3d]  User: 'inov3d'  |> followers: 4726  |> following: 1587  |> relationship ratio: 2.97
+INFO [2020-09-18 17:14:35] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:14:38] [yourprints3d]  --> Not commented
+INFO [2020-09-18 17:14:40] [yourprints3d]  --> Already following 'inov3d'!
+
+WARNING [2020-09-18 17:14:41] [yourprints3d]  Post Randomly Skipped...
+
+INFO [2020-09-18 17:14:41] [yourprints3d]  New link found...
+INFO [2020-09-18 17:14:41] [yourprints3d]  [8 posts liked /10 amount]
+INFO [2020-09-18 17:14:41] [yourprints3d]  https://www.instagram.com/p/CFInoNljmsq/
+INFO [2020-09-18 17:14:43] [yourprints3d]  Image from: b'inov3d'
+INFO [2020-09-18 17:14:43] [yourprints3d]  Link: b'https://www.instagram.com/p/CFInoNljmsq/'
+INFO [2020-09-18 17:14:43] [yourprints3d]  Description: b'#3DPRINTING #3dprinting #impressao3d #impresion3d #3dprint #3dprinter #3dprinted #gadgets #creality #helmets #marvel #helmet #shareyour3dprints #engineering #ingenieria #myminifactory #ironman #comiccon #avengers #cosplay #gadgets #tech #cosplayer'
+INFO [2020-09-18 17:14:47] [yourprints3d]  User: 'inov3d'  |> followers: 4726  |> following: 1587  |> relationship ratio: 2.97
+INFO [2020-09-18 17:15:17] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:15:19] [yourprints3d]  Quota Supervisor: jumped a comment out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:15:19] [yourprints3d]  --> Already following 'inov3d'!
+
+INFO [2020-09-18 17:15:20] [yourprints3d]  New link found...
+INFO [2020-09-18 17:15:20] [yourprints3d]  [9 posts liked /10 amount]
+INFO [2020-09-18 17:15:20] [yourprints3d]  https://www.instagram.com/p/CFInihHjSol/
+INFO [2020-09-18 17:15:23] [yourprints3d]  Image from: b'inov3d'
+INFO [2020-09-18 17:15:23] [yourprints3d]  Link: b'https://www.instagram.com/p/CFInihHjSol/'
+INFO [2020-09-18 17:15:23] [yourprints3d]  Description: b'#satisfying3dprinting #3dprinting #3dprinter #3d #3dprint #3dmodel #fdm #fuseddepositionmodeling #additivemanufacturing #3dtechnology #thermoplastics #newtechnologies #videooftheday #mechanicalengineering #plastics #pla #thermoplastics #satisfsaction #mesmerising #relaxing #oddlysatisfying #creative #fabric #clothing #fashion #geeetech'
+INFO [2020-09-18 17:15:26] [yourprints3d]  User: 'inov3d'  |> followers: 4726  |> following: 1587  |> relationship ratio: 2.97
+INFO [2020-09-18 17:15:56] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:15:58] [yourprints3d]  Quota Supervisor: jumped a comment out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:15:58] [yourprints3d]  --> Already following 'inov3d'!
+
+INFO [2020-09-18 17:15:59] [yourprints3d]  Liked: 10
+INFO [2020-09-18 17:15:59] [yourprints3d]  Already Liked: 1
+INFO [2020-09-18 17:15:59] [yourprints3d]  Commented: 2
+INFO [2020-09-18 17:15:59] [yourprints3d]  Followed: 0
+INFO [2020-09-18 17:15:59] [yourprints3d]  Inappropriate: 0
+INFO [2020-09-18 17:15:59] [yourprints3d]  Not valid users: 5
+INFO [2020-09-18 17:15:59] [yourprints3d]  Randomly Skipped: 12
+
+INFO [2020-09-18 17:15:59] [yourprints3d]  Tag [1/2]
+INFO [2020-09-18 17:15:59] [yourprints3d]  --> b'3dprint'
+INFO [2020-09-18 17:16:09] [yourprints3d]  desired amount: 59  |  top posts [disabled]: 9  |  possible posts: 1506476
+INFO [2020-09-18 17:16:26] [yourprints3d]  Like# [1/59]
+INFO [2020-09-18 17:16:26] [yourprints3d]  https://www.instagram.com/p/CFSnsLSMprG/
+INFO [2020-09-18 17:16:29] [yourprints3d]  Image from: b'wla3d'
+INFO [2020-09-18 17:16:29] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSnsLSMprG/'
+INFO [2020-09-18 17:16:29] [yourprints3d]  Description: b'\xf0\x9f\xa4\x9d\xf0\x9f\x8c\x8d\nPlacas em Braille feitas em impressora 3D com um custo muito baixo para empresas que queiram desenvolver melhor inclus\xc3\xa3o de deficientes visuais em seus estabelecimentos.\n\nEntre em contato para saber mais sobre o desenvolvimento dos projetos!\n.\n.\n.\n.\n.\n#arquitetura #braille #3dprint #impressao3d #empresas #hotelaria #pousadas'
+INFO [2020-09-18 17:16:33] [yourprints3d]  User: 'wla3d'  |> followers: 300  |> following: 1  |> relationship ratio: 300.0
+INFO [2020-09-18 17:16:33] [yourprints3d]  User 'wla3d's following count is less than minimum limit  ~skipping user
+
+INFO [2020-09-18 17:16:33] [yourprints3d]  Like# [2/59]
+INFO [2020-09-18 17:16:33] [yourprints3d]  https://www.instagram.com/p/CFSnJQDDkKf/
+INFO [2020-09-18 17:16:36] [yourprints3d]  Image from: b'sduartes'
+INFO [2020-09-18 17:16:36] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSnJQDDkKf/'
+INFO [2020-09-18 17:16:36] [yourprints3d]  Description: b'Aquela textura... #3dprinter #3dprint #ender3'
+INFO [2020-09-18 17:16:36] [yourprints3d]  Location: b'Curitiba, Brazil'
+INFO [2020-09-18 17:16:40] [yourprints3d]  User: 'sduartes'  |> followers: 459  |> following: 407  |> relationship ratio: 1.12
+INFO [2020-09-18 17:17:10] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:17:14] [yourprints3d]  Quota Supervisor: jumped a comment out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:17:20] [yourprints3d]  Last follow is verified after reloading the page!
+INFO [2020-09-18 17:17:20] [yourprints3d]  --> Followed 'b'sduartes''!
+ERROR [2020-09-18 17:17:45] [yourprints3d]  Failed to get the user ID of 'sduartes' from post page!
+INFO [2020-09-18 17:17:47] [yourprints3d]  Like# [3/59]
+INFO [2020-09-18 17:17:47] [yourprints3d]  https://www.instagram.com/p/CFSnFYbD4fv/
+INFO [2020-09-18 17:17:50] [yourprints3d]  Image from: b'flip.shop_3d'
+INFO [2020-09-18 17:17:50] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSnFYbD4fv/'
+INFO [2020-09-18 17:17:50] [yourprints3d]  Description: b'Cadou + personalizare \xf0\x9f\x92\x93\xf0\x9f\x91\xa9\xe2\x80\x8d\xe2\x9d\xa4\xef\xb8\x8f\xe2\x80\x8d\xf0\x9f\x92\x8b\xe2\x80\x8d\xf0\x9f\x91\xa8\nCrearea celor mai originale cadouri cu ajutorul imprimarii 3D\xf0\x9f\xa7\x99\n\n#3d #print #cadou #personalizat #personalizare #3dprint #flip #original #lover #red #plastic\n#it #modeling #stereo #text #3dtext #ilusion#aina #vitalie #timofei #multumesc'
+INFO [2020-09-18 17:17:54] [yourprints3d]  User: 'flip.shop_3d'  |> followers: 32  |> following: 320  |> relationship ratio: 0.1
+INFO [2020-09-18 17:18:24] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:18:25] [yourprints3d]  Quota Supervisor: jumped a comment out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:18:31] [yourprints3d]  Last follow is verified after reloading the page!
+INFO [2020-09-18 17:18:31] [yourprints3d]  --> Followed 'b'flip.shop_3d''!
+ERROR [2020-09-18 17:18:56] [yourprints3d]  Failed to get the user ID of 'flip.shop_3d' from post page!
+INFO [2020-09-18 17:19:00] [yourprints3d]  Like# [4/59]
+INFO [2020-09-18 17:19:00] [yourprints3d]  https://www.instagram.com/p/CFSm9-oHuul/
+INFO [2020-09-18 17:19:03] [yourprints3d]  Image from: b'kknyart'
+INFO [2020-09-18 17:19:03] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSm9-oHuul/'
+INFO [2020-09-18 17:19:03] [yourprints3d]  Description: b"Here's a treasure chest v1.4!\n\nGoing to use this in Gloomhaven.\n\nStill learning this stuff and print settings could have been better, but I'm pretty happy how the model turned out.\n\n#blender #3dmodel #3dprint #chest #treasure #treasurechest #minipainting #miniature #miniatures #miniatyyri #3dmodelling #skull #tabletop #gloomhaven #boardgames #tabletopgames"
+INFO [2020-09-18 17:19:07] [yourprints3d]  User: 'kknyart'  |> followers: 68  |> following: 76  |> relationship ratio: 0.89
+INFO [2020-09-18 17:19:07] [yourprints3d]  User 'kknyart's following count is less than minimum limit  ~skipping user
+
+INFO [2020-09-18 17:19:07] [yourprints3d]  Like# [5/59]
+INFO [2020-09-18 17:19:07] [yourprints3d]  https://www.instagram.com/p/CFSmr_nBa02/
+INFO [2020-09-18 17:19:10] [yourprints3d]  Image from: b'david_villa_dj'
+INFO [2020-09-18 17:19:10] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSmr_nBa02/'
+INFO [2020-09-18 17:19:10] [yourprints3d]  Description: b'\xe2\x9c\x8c\xef\xb8\x8f\xf0\x9f\x98\x9c\xe2\x9c\x8c\xef\xb8\x8f\n.\n.\n.\n#after #cdmx #boy #teen #tanktop #rave #molly #3dprint #mdma #gayboy #instaboy #party #techno #tech #technology #twinkboy #music #weed #lsd #gayteen #techhouse #progressivehouse #deephouse #gaymexico #twink #dj #djlife #reptile #illuminati #bottom'
+INFO [2020-09-18 17:19:14] [yourprints3d]  User: 'david_villa_dj'  |> followers: 2243  |> following: 2092  |> relationship ratio: 1.07
+INFO [2020-09-18 17:19:44] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:19:46] [yourprints3d]  Quota Supervisor: jumped a comment out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:19:53] [yourprints3d]  Last follow is verified after reloading the page!
+INFO [2020-09-18 17:19:53] [yourprints3d]  --> Followed 'b'david_villa_dj''!
+ERROR [2020-09-18 17:20:19] [yourprints3d]  Failed to get the user ID of 'david_villa_dj' from post page!
+INFO [2020-09-18 17:20:22] [yourprints3d]  Like# [6/59]
+INFO [2020-09-18 17:20:22] [yourprints3d]  https://www.instagram.com/p/CFSmr02HJkE/
+INFO [2020-09-18 17:20:24] [yourprints3d]  Image from: b'jr3dartist97'
+INFO [2020-09-18 17:20:24] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSmr02HJkE/'
+INFO [2020-09-18 17:20:24] [yourprints3d]  Description: b'Primera impresi\xc3\xb3n con impresora 3D. Pedidos a: javirozalenbonete@gmail.com o por md.\n\n#groot #3dprint #impresion3d #babygroot #marvel #3dmodel'
+INFO [2020-09-18 17:20:28] [yourprints3d]  User: 'jr3dartist97'  |> followers: 42  |> following: 49  |> relationship ratio: 0.85
+INFO [2020-09-18 17:20:28] [yourprints3d]  User 'jr3dartist97's following count is less than minimum limit  ~skipping user
+
+INFO [2020-09-18 17:20:28] [yourprints3d]  Like# [7/59]
+INFO [2020-09-18 17:20:28] [yourprints3d]  https://www.instagram.com/p/CFSmGZ1H4ev/
+INFO [2020-09-18 17:20:31] [yourprints3d]  Image from: b'kamran_ccc_eng'
+INFO [2020-09-18 17:20:31] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSmGZ1H4ev/'
+INFO [2020-09-18 17:20:31] [yourprints3d]  Description: b'@3dprintingdragon\n\xd8\xb3\xd8\xa7\xd8\xb9\xd8\xaa \xd8\xb3\xd8\xa7\xd8\xae\xd8\xaa\xd9\x87 \xd8\xb4\xd8\xaf\xd9\x87 \xd8\xa8\xd8\xa7 \xda\x86\xd8\xa7\xd9\xbe\xda\xaf\xd8\xb1 \xd8\xb3\xd9\x87 \xd8\xa8\xd8\xb9\xd8\xaf\xdb\x8c .\xf0\x9f\x99\x8f\xf0\x9f\x98\x8d\xf0\x9f\x91\x8f\xf0\x9f\x8c\xba\n3D Printed Mechanical Clock\nFollow @3dprintingdragon\nFollow @3dprintingdragon\n\nSource: @myminifactory\n\n\xe2\x81\xa0\n#3dprint\xc2\xa0#3dprinting\xc2\xa0#3d\xc2\xa0#design\xc2\xa0#3ddesign\xc2\xa0#pla\xc2\xa0#abs#filament\xc2\xa0#model\xc2\xa0#3dprints\xc2\xa0#3dmodel\xc2\xa0#prusa\xc2\xa0#creality#thingiverse\xc2\xa0#plastic\xc2\xa0#diy\xc2\xa0#make\xc2\xa0#create #myonline3dprinter #clock #mechanical #mechanicalclock #engineering #gears #steampunk'
+INFO [2020-09-18 17:20:35] [yourprints3d]  User: 'kamran_ccc_eng'  |> followers: 1967  |> following: 2477  |> relationship ratio: 0.79
+INFO [2020-09-18 17:21:06] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:21:08] [yourprints3d]  Quota Supervisor: jumped a comment out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:21:14] [yourprints3d]  Last follow is verified after reloading the page!
+INFO [2020-09-18 17:21:14] [yourprints3d]  --> Followed 'b'kamran_ccc_eng''!
+ERROR [2020-09-18 17:21:39] [yourprints3d]  Failed to get the user ID of 'kamran_ccc_eng' from post page!
+INFO [2020-09-18 17:21:42] [yourprints3d]  Like# [8/59]
+INFO [2020-09-18 17:21:42] [yourprints3d]  https://www.instagram.com/p/CFSmhq2Hql_/
+INFO [2020-09-18 17:21:46] [yourprints3d]  Image from: b'azul3dimpresiones'
+INFO [2020-09-18 17:21:46] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSmhq2Hql_/'
+INFO [2020-09-18 17:21:46] [yourprints3d]  Description: b'Maceta groot\xf0\x9f\xa6\x8b\xf0\x9f\x8c\xbc\n.\n.\n.\n.\n#impresion3d #3dprinting #modelado3d #3dmodeling #3dprint #azul #ciudadazul #grilon'
+INFO [2020-09-18 17:21:50] [yourprints3d]  User: 'azul3dimpresiones'  |> followers: 379  |> following: 398  |> relationship ratio: 0.95
+INFO [2020-09-18 17:22:20] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:22:22] [yourprints3d]  --> Not commented
+INFO [2020-09-18 17:22:23] [yourprints3d]  Quota Supervisor: jumped a follow out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:22:23] [yourprints3d]  Like# [9/59]
+INFO [2020-09-18 17:22:23] [yourprints3d]  https://www.instagram.com/p/CFSmaSyD_E1/
+INFO [2020-09-18 17:22:26] [yourprints3d]  Image from: b'propitech3d'
+INFO [2020-09-18 17:22:26] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSmaSyD_E1/'
+INFO [2020-09-18 17:22:26] [yourprints3d]  Description: b'Amanh\xc3\xa3 \xc3\xa9 o \xc3\xbaltimo dia de promo\xc3\xa7\xc3\xa3o dos filamentos da linha performance da Propitech 3D, aproveite essa oportunidade, pois os estoques j\xc3\xa1 est\xc3\xa3o se esgotando. \n\nTPU ESGOTADO!!!\n\n#promocaofilamento #filamentos3d #filamentosperformance #absperformance #absmg94 #pla #petg #tpu #impressaodigital #impressao3d #impressora3d #3dbrasil #3dprint #printed3d #propitech3d'
+INFO [2020-09-18 17:22:30] [yourprints3d]  User: 'propitech3d'  |> followers: 441  |> following: 416  |> relationship ratio: 1.06
+INFO [2020-09-18 17:23:00] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:23:03] [yourprints3d]  Quota Supervisor: jumped a comment out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:23:03] [yourprints3d]  Quota Supervisor: jumped a follow out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:23:03] [yourprints3d]  Like# [10/59]
+INFO [2020-09-18 17:23:03] [yourprints3d]  https://www.instagram.com/p/CFSmIx2HiT-/
+INFO [2020-09-18 17:23:06] [yourprints3d]  Image from: b'wargamesprinted'
+INFO [2020-09-18 17:23:06] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSmIx2HiT-/'
+INFO [2020-09-18 17:23:06] [yourprints3d]  Description: b'Algunas ruinas y objetos para decorar nuestras peanas y nuestra escenograf\xc3\xada.\n\nSome ruins and objects to decorate our stands and our scenery. \n\n#warhammer40k\xc2\xa0#epicscale\xc2\xa0#epic40k\xc2\xa0#epicarmageddon\xc2\xa0#netea\xc2\xa0#netepic\xc2\xa0#vanguardminiatures\xc2\xa0#epicarmageddon\xc2\xa0#netepic\xc2\xa0#3dprinting\xc2\xa0#3dprinted\xc2\xa0#spacemarines40k\xc2\xa0#spacemarines\xc2\xa0#6mmwargaming\xc2\xa0#8mmwargaming\xc2\xa0\xc2\xa0#adeptustitanicus\xc2\xa0#wargames\xc2\xa0#wargamesprinted\xc2\xa0#resinprint\xc2\xa0#anycubic\xc2\xa0#ultramarine\xc2\xa0#creality\xc2\xa0#epic30k\xc2\xa0#epic40kterrain #scenery #3dprint #imperialarmy\xc2\xa0#gw\xc2\xa0#gamesworkshop40k #aeronauticaimperialis'
+INFO [2020-09-18 17:23:10] [yourprints3d]  User: 'wargamesprinted'  |> followers: 161  |> following: 228  |> relationship ratio: 0.7
+INFO [2020-09-18 17:23:40] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:23:42] [yourprints3d]  Quota Supervisor: jumped a comment out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:23:42] [yourprints3d]  Quota Supervisor: jumped a follow out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:23:42] [yourprints3d]  Like# [11/59]
+INFO [2020-09-18 17:23:42] [yourprints3d]  https://www.instagram.com/p/CFSkWqsABmZ/
+INFO [2020-09-18 17:23:45] [yourprints3d]  Image from: b'design.pilot'
+INFO [2020-09-18 17:23:45] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSkWqsABmZ/'
+INFO [2020-09-18 17:23:45] [yourprints3d]  Description: b'By @aghilation \n.\n.\n.\n.\nClick link in bio for promotional contents\n. \n. \n.\nFollow @design.pilot\n>>>>> @kce.e \nSubscribe to YouTube : >>>>> YouTube.designpilot.net'
+INFO [2020-09-18 17:23:51] [yourprints3d]  User: 'design.pilot'  |> followers: 57666  |> following: 621  |> relationship ratio: 92.85
+INFO [2020-09-18 17:23:51] [yourprints3d]  User 'design.pilot's followers count exceeds maximum limit  ~skipping user
+
+INFO [2020-09-18 17:23:51] [yourprints3d]  Like# [12/59]
+INFO [2020-09-18 17:23:51] [yourprints3d]  https://www.instagram.com/p/CFSmGNcHBuI/
+INFO [2020-09-18 17:23:55] [yourprints3d]  Image from: b'epicgmco'
+INFO [2020-09-18 17:23:55] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSmGNcHBuI/'
+INFO [2020-09-18 17:23:55] [yourprints3d]  Description: b'Virdoosh the Poisonous is a slimy and narcissistic lizardman as comes with his kind. One day he met a bugbear that he knew he could use to help him climb his way to his tribe\xe2\x80\x99s top. And so he left his tribe to live as two mercenary monsters. It wasn\xe2\x80\x99t long until Virdoosh learned of his love for poison and everything toxic when he met a demon trapped in an underground vault. It is here for the promise of elemental power the lizardman turned against his best friend. Add this Lizardman betrayer to your next group and spring a trap on the whole party.\n\n#miniatures #dungeonsanddragons #minis #roleplay #tabletop #gamesworkshop #warhammer40k #gaming #rpg #warhammer #40k #3dprint #dragons #dnd #3dprinting #rp #boardgames #boardgamegeek #dragon #pla #3dprinter #3dprinted #mini #miniature #boardgame #painting #crafts #lizardman #spearman #reptilesofinstagram'
+INFO [2020-09-18 17:23:59] [yourprints3d]  User: 'epicgmco'  |> followers: 75  |> following: 10  |> relationship ratio: 7.5
+INFO [2020-09-18 17:23:59] [yourprints3d]  User 'epicgmco's following count is less than minimum limit  ~skipping user
+
+INFO [2020-09-18 17:23:59] [yourprints3d]  Like# [13/59]
+INFO [2020-09-18 17:23:59] [yourprints3d]  https://www.instagram.com/p/CFSl9SqAqNQ/
+INFO [2020-09-18 17:24:03] [yourprints3d]  Image from: b'blackforge_games'
+INFO [2020-09-18 17:24:03] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSl9SqAqNQ/'
+INFO [2020-09-18 17:24:03] [yourprints3d]  Description: b'590 years old.\nHis age is not considered normal between centaurs who tend to live up to 300 years old, but an event on his adult life forever affected his body...\nSoon his name and his story!\n\n#boardgame #boardgamegeek #boardgames #boardgamenight #boardgamesofinstagram #boardgamesgeeks #boardgameaddict #cardgame #kickstarters #kickstarterproject #kickstarter #tabletop #tabletopgames #tabletopgaming #paintingminis #paintingminiatures #paintingminiature #miniatures #3dprint #3dprinting #3dprintable #centaur #elf #viking #dwarven #bloodoak #bloodoak_theboardgame'
+INFO [2020-09-18 17:24:03] [yourprints3d]  Location: b'Wellington Region'
+INFO [2020-09-18 17:24:07] [yourprints3d]  User: 'blackforge_games'  |> followers: 2109  |> following: 7353  |> relationship ratio: 0.28
+INFO [2020-09-18 17:24:39] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:24:41] [yourprints3d]  --> Not commented
+INFO [2020-09-18 17:24:42] [yourprints3d]  Quota Supervisor: jumped a follow out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:24:42] [yourprints3d]  Like# [14/59]
+INFO [2020-09-18 17:24:42] [yourprints3d]  https://www.instagram.com/p/CFSl43gqAQv/
+INFO [2020-09-18 17:24:45] [yourprints3d]  Image from: b'lasermanufaktur_cichon'
+INFO [2020-09-18 17:24:45] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSl43gqAQv/'
+INFO [2020-09-18 17:24:45] [yourprints3d]  Description: b'Das war damals mein erstes gedrucktes Teil aus dem 3D Drucker, dass sogenannte Benchy. Ich biete auch 3D Druck Service an, Interesse? Dann Nachricht an mich \xf0\x9f\x98\x89 #lsrmnfktr #3ddruck #3dprint #benchy #diy #creality #cr10spro #igersheim #badmergentheim #tauberbischofsheim #taubertal #w\xc3\xbcrzburg'
+INFO [2020-09-18 17:24:45] [yourprints3d]  Location: b'Igersheim'
+INFO [2020-09-18 17:24:50] [yourprints3d]  User: 'lasermanufaktur_cichon'  |> followers: 122  |> following: 248  |> relationship ratio: 0.49
+INFO [2020-09-18 17:25:20] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:25:22] [yourprints3d]  Quota Supervisor: jumped a comment out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:25:22] [yourprints3d]  Quota Supervisor: jumped a follow out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:25:22] [yourprints3d]  Like# [15/59]
+INFO [2020-09-18 17:25:22] [yourprints3d]  https://www.instagram.com/p/CFSl1BljS00/
+INFO [2020-09-18 17:25:25] [yourprints3d]  Image from: b'denisgeek0'
+INFO [2020-09-18 17:25:25] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSl1BljS00/'
+INFO [2020-09-18 17:25:25] [yourprints3d]  Description: b'\xd0\xa0\xd1\x83\xd0\xb6\xd0\xb6\xd0\xbe )\n\xd0\x9f\xd0\xbe\xd0\xb4 \xd0\xbf\xd0\xb5\xd1\x87\xd0\xb0\xd1\x82\xd1\x8c https://www.thingiverse.com/thing:4500713\n\xe2\xa0\x80\n#denisgeek0 #\xd1\x8d\xd0\xbb\xd0\xb5\xd0\xba\xd1\x82\xd1\x80\xd0\xbe\xd0\xbd\xd0\xb8\xd0\xba\xd0\xb0 #\xd0\xb8\xd0\xbd\xd0\xb6\xd0\xb5\xd0\xbd\xd0\xb5\xd1\x80 #arduino #\xd1\x80\xd0\xb0\xd0\xb4\xd0\xb8\xd0\xbe\xd0\xbb\xd1\x8e\xd0\xb1\xd0\xb8\xd1\x82\xd0\xb5\xd0\xbb\xd1\x8c #electronics  #model #printer #diy #tech #3\xd0\xb4\xd0\xbf\xd0\xb5\xd1\x87\xd0\xb0\xd1\x82\xd1\x8c #3dprinter #3dprint #printed #\xd0\xbf\xd0\xb5\xd1\x87\xd0\xb0\xd1\x82\xd1\x8c #\xd0\xbf\xd0\xbb\xd0\xb0\xd1\x81\xd1\x82\xd0\xb8\xd0\xba #\xd0\xbc\xd0\xbe\xd0\xb4\xd0\xb5\xd0\xbb\xd1\x8c\xd0\xbf\xd0\xbe\xd0\xb4\xd0\xbf\xd0\xb5\xd1\x87\xd0\xb0\xd1\x82\xd1\x8c'
+INFO [2020-09-18 17:25:29] [yourprints3d]  User: 'denisgeek0'  |> followers: 1766  |> following: 2306  |> relationship ratio: 0.76
+INFO [2020-09-18 17:25:59] [yourprints3d]  --> Image Liked!
+INFO [2020-09-18 17:26:01] [yourprints3d]  Quota Supervisor: jumped a comment out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:26:01] [yourprints3d]  Quota Supervisor: jumped a follow out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:26:01] [yourprints3d]  Like# [16/59]
+INFO [2020-09-18 17:26:01] [yourprints3d]  https://www.instagram.com/p/CFSlmH2DU_3/
+INFO [2020-09-18 17:26:04] [yourprints3d]  Image from: b'sebasram9'
+INFO [2020-09-18 17:26:04] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSlmH2DU_3/'
+INFO [2020-09-18 17:26:04] [yourprints3d]  Description: b'Un b\xc3\xbaho.\xf0\x9f\xa6\x89\xf0\x9f\x8c\xbf\xf0\x9f\x8c\xb3\n.\n.\n.\n\xf0\x9f\x96\xa8\xef\xb8\x8f Impresora: JGAURORA A3\n\xe2\x9a\xaa Filamento PLA color blanco\n\xe2\x9e\x96 Altura de capa: 0.2mm\n\xf0\x9f\x94\xb2 Relleno: 20%\n\xe2\x8f\xb3 Tiempo de impresi\xc3\xb3n: 10h40m\n.\n.\n.\n#3dprints #3dprint #3Dprinting #3dprinted #Impresion3D #jgmaker #owl #plafilament #white #additivemanufacturing #Instagram #foto #fotograf\xc3\xada #bogot\xc3\xa1'
+INFO [2020-09-18 17:26:04] [yourprints3d]  Location: b'Bogot\xc3\xa1, Colombia'
+INFO [2020-09-18 17:26:08] [yourprints3d]  User: 'sebasram9'  |> followers: 300  |> following: 321  |> relationship ratio: 0.93
+INFO [2020-09-18 17:26:36] [yourprints3d]  Quota Supervisor: jumped a like out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:26:36] [yourprints3d]  Like# [17/59]
+INFO [2020-09-18 17:26:36] [yourprints3d]  https://www.instagram.com/p/CFSlclinZMC/
+INFO [2020-09-18 17:26:40] [yourprints3d]  Image from: b'ucboyutbutik'
+INFO [2020-09-18 17:26:40] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSlclinZMC/'
+INFO [2020-09-18 17:26:40] [yourprints3d]  Description: b'Bir kedi g\xc3\xb6rd\xc3\xbcm sanki \xf0\x9f\x90\x88\n\n#tweety #bird #kurabiye #kurabiyekal\xc4\xb1b\xc4\xb1 #pasta #pastakal\xc4\xb1b\xc4\xb1 #tweetykurabiye #tweetykurabiyekal\xc4\xb1b\xc4\xb1 #3boyutlubask\xc4\xb1 #3dprint #3boyutluyaz\xc4\xb1c\xc4\xb1 #ender3v2 #kedi #ku\xc5\x9f #butik #butikpasta #butikkurabiye #like4likes #likeforlikes #follow4follow #followforfollow'
+INFO [2020-09-18 17:26:44] [yourprints3d]  User: 'ucboyutbutik'  |> followers: 19  |> following: 9  |> relationship ratio: 2.11
+INFO [2020-09-18 17:26:44] [yourprints3d]  User 'ucboyutbutik's followers count is less than minimum limit  ~skipping user
+
+INFO [2020-09-18 17:26:44] [yourprints3d]  Like# [18/59]
+INFO [2020-09-18 17:26:44] [yourprints3d]  https://www.instagram.com/p/CFSlbPYp3u5/
+INFO [2020-09-18 17:26:47] [yourprints3d]  Image from: b'3d.form'
+INFO [2020-09-18 17:26:47] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSlbPYp3u5/'
+INFO [2020-09-18 17:26:47] [yourprints3d]  Description: b'Estamos fabricando este objeto que ilustra la diversidad de cosas que nos permite realizar el dise\xc3\xb1o y la impresi\xc3\xb3n 3D \xf0\x9f\x96\xb1\xef\xb8\x8f\xe2\x81\xa3\nEste trabajo es a partir del pedido de un cliente que tiene como proyecto fabricar varios ejemplares de esta m\xc3\xa1scara \xf0\x9f\x98\x88\xe2\x81\xa3\nLa de la im\xc3\xa1gen est\xc3\xa1 impresa en PLA y ser\xc3\xa1 la matriz que nos permitir\xc3\xa1 crear el molde de caucho de siliconas \xe2\x9c\xb3\xef\xb8\x8f\xe2\x81\xa3\n\xe2\x81\xa3\n\xe2\x81\xa3\n\xe2\x81\xa3\n\xe2\x81\xa3\n\xe2\x81\xa3\n\xe2\x81\xa3\n\xe2\x81\xa3\n\xe2\x81\xa3\n\xe2\x81\xa3\n\xe2\x81\xa3\n\xe2\x81\xa3\n\xe2\x81\xa3\n#Form #3dprint #industrialdesign #design #dise\xc3\xb1o  #impresion3d  #empende #emprendimiento #marca #proyecto #negocio #emprender #laplata #LaPlata #todoelpais #Argentina #macetasdecemento #moldes #trabajoautonomo #versatilidad #personalizado #dise\xc3\xb1opersonalizado\xe2\x81\xa3'
+INFO [2020-09-18 17:26:47] [yourprints3d]  Location: b'Argentina'
+INFO [2020-09-18 17:26:51] [yourprints3d]  User: '3d.form'  |> followers: 3315  |> following: 13  |> relationship ratio: 255.0
+INFO [2020-09-18 17:26:51] [yourprints3d]  User '3d.form's following count is less than minimum limit  ~skipping user
+
+INFO [2020-09-18 17:26:51] [yourprints3d]  Like# [19/59]
+INFO [2020-09-18 17:26:51] [yourprints3d]  https://www.instagram.com/p/CFSlKZkD0bu/
+INFO [2020-09-18 17:26:55] [yourprints3d]  Image from: b'namu3d'
+INFO [2020-09-18 17:26:55] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSlKZkD0bu/'
+INFO [2020-09-18 17:26:55] [yourprints3d]  Description: b'EVIL MINION TIMELAPSE\n\n\xe2\x98\x86 STL Alsamen @Thingiverse thing:3059496\n\xe2\x98\x86 Creality CR-10S @creality_official @creality3d\n\xe2\x98\x86 PLA Mellon yellow "generic"\n\xe2\x98\x86 Layer 0,2 mm\n\xe2\x98\x86 Temperature 200 C\n\xe2\x98\x86 Infill 15%\n\xe2\x98\x86 Print time ~5:30 H'
+INFO [2020-09-18 17:27:00] [yourprints3d]  User: 'namu3d'  |> followers: 3130  |> following: 681  |> relationship ratio: 4.59
+INFO [2020-09-18 17:27:28] [yourprints3d]  Quota Supervisor: jumped a like out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:27:28] [yourprints3d]  Like# [20/59]
+INFO [2020-09-18 17:27:28] [yourprints3d]  https://www.instagram.com/p/CFSkkgLDsqL/
+INFO [2020-09-18 17:27:31] [yourprints3d]  Image from: b'taiced3d'
+INFO [2020-09-18 17:27:31] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSkkgLDsqL/'
+INFO [2020-09-18 17:27:31] [yourprints3d]  Description: b'Totalmente agradecidos con nuestros clientes por preferirnos.\xe2\x81\xa0\n.\nTrofeos personalizados UNACEM, categor\xc3\xada Flota de combustible, caliza y cemento.\xe2\xa0\x80 \xe2\x81\xa0\n.\nSi deseas contratar nuestro servicio de Impresi\xc3\xb3n 3D escr\xc3\xadbenos, estamos para ayudarte.\n.\xe2\x81\xa0\n.\xe2\x81\xa0\n.\xe2\x81\xa0\n.\n.\n#impresion3d #3d #3dprint #3dprinting #3dprinter #impresora3d #prusa #prusamk3s #prusai3mk3s #dise\xc3\xb1o #trofeo #FDM #prusaprinters #pla #filament #3dfilament #3dprintiglife #makerspace #anycubicphotons #anycubicphoton #maker #quito #cuenca #guayaquil #ecuador #allyouneedisecuador'
+INFO [2020-09-18 17:27:31] [yourprints3d]  Location: b'Ecuador, Quito'
+INFO [2020-09-18 17:27:35] [yourprints3d]  User: 'taiced3d'  |> followers: 2293  |> following: 938  |> relationship ratio: 2.44
+INFO [2020-09-18 17:28:04] [yourprints3d]  Quota Supervisor: jumped a like out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:28:04] [yourprints3d]  Like# [21/59]
+INFO [2020-09-18 17:28:04] [yourprints3d]  https://www.instagram.com/p/CFSkbeCnR0x/
+INFO [2020-09-18 17:28:07] [yourprints3d]  Image from: b'abbadonische'
+INFO [2020-09-18 17:28:07] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSkbeCnR0x/'
+INFO [2020-09-18 17:28:07] [yourprints3d]  Description: b'\xd0\x9f\xd1\x8f\xd1\x82\xd0\xbd\xd0\xb8\xd1\x86\xd0\xb0 \xd0\xb8 \xd0\xbc\xd0\xbd\xd0\xb5 \xd0\xb4\xd0\xb8\xd0\xba\xd0\xbe \xd0\xbb\xd0\xb5\xd0\xbd\xd1\x8c \xd0\xbf\xd0\xb8\xd1\x81\xd0\xb0\xd1\x82\xd1\x8c \xd0\xbe\xd0\xbf\xd0\xb8\xd1\x81\xd0\xb0\xd0\xbd\xd0\xb8\xd0\xb5))))\n\xe2\xa0\x80\n\xd0\x92 \xd1\x8d\xd1\x84\xd0\xb8\xd1\x80\xd0\xb5 \xd0\xb4\xd0\xbe\xd0\xba\xd1\x82\xd0\xbe\xd1\x80, \xd0\xbf\xd1\x80\xd0\xb0\xd0\xb2\xd0\xb4\xd0\xb0 \xd1\x83 \xd0\xba\xd0\xbe\xd1\x82\xd0\xbe\xd1\x80\xd0\xbe\xd0\xb3\xd0\xbe \xd0\xb5\xd1\x81\xd1\x82\xd1\x8c \xd0\xbd\xd0\xb5\xd0\xba\xd0\xbe\xd1\x82\xd0\xbe\xd1\x80\xd1\x8b\xd0\xb5 \xd0\xbe\xd1\x81\xd0\xbe\xd0\xb1\xd0\xb5\xd0\xbd\xd0\xbd\xd0\xbe\xd1\x81\xd1\x82\xd0\xb8. \xd0\xa3 \xd0\xbd\xd0\xb5\xd0\xb3\xd0\xbe \xd0\xba\xd0\xbb\xd0\xb5\xd1\x88\xd0\xbd\xd0\xb8. \xd0\x9f\xd0\xbe\xd1\x87\xd1\x82\xd0\xb8 \xd0\xba\xd0\xb0\xd0\xba \xd0\xbb\xd0\xb0\xd0\xbf\xd0\xba\xd0\xb8, \xd0\xbd\xd0\xbe \xd0\xba\xd0\xbb\xd0\xb5\xd1\x88\xd0\xbd\xd0\xb8, "\xd0\x9a\xd0\xb0\xd0\xba \xd1\x83 \xd1\x82\xd0\xb2\xd0\xbe\xd0\xb8\xd1\x85 \xd1\x82\xd0\xb8\xd0\xbc\xd0\xbc\xd0\xb5\xd0\xb9\xd1\x82\xd0\xbe\xd0\xb2" \xf0\x9f\x98\x8f. \xd0\x94\xd0\xbe\xd0\xba\xd1\x82\xd0\xbe\xd1\x80 \xd0\x94\xd0\xb6\xd0\xbe\xd0\xbd \xd0\x97\xd0\xbe\xd0\xb9\xd0\xb4\xd0\xb1\xd0\xb5\xd1\x80\xd0\xb3 \xd0\xb6\xd0\xb4\xd1\x91\xd1\x82.\n\xe2\xa0\x80\n\xd0\xa4\xd1\x83\xd1\x82\xd1\x83\xd1\x80\xd0\xb0\xd0\xbc\xd0\xb0 \xd0\xbf\xd1\x80\xd0\xbe\xd0\xb4\xd0\xbe\xd0\xbb\xd0\xb6\xd0\xb0\xd0\xb5\xd1\x82\xd1\x81\xd1\x8f. \xd0\x9f\xd1\x80\xd0\xb8\xd1\x8f\xd1\x82\xd0\xbd\xd0\xbe\xd0\xb3\xd0\xbe \xd0\xbf\xd1\x80\xd0\xbe\xd1\x81\xd0\xbc\xd0\xbe\xd1\x82\xd1\x80\xd0\xb0)\n\xe2\xa0\x80\n\xd0\x9d\xd0\xb0\xd0\xbf\xd0\xb5\xd1\x87\xd0\xb0\xd1\x82\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xbf\xd0\xbb\xd0\xb0\xd1\x81\xd1\x82\xd0\xb8\xd0\xba\xd0\xbe\xd0\xbc PLA \xd0\xbe\xd1\x82 @ukrainian_3d_factory\n#u3df #\xd0\x97\xd0\xbe\xd0\xb9\xd0\xb4\xd0\xb1\xd0\xb5\xd1\x80\xd0\xb3 #\xd0\x94\xd0\xbe\xd0\xba\xd1\x82\xd0\xbe\xd1\x80\xd0\x97\xd0\xbe\xd0\xb9\xd0\xb4\xd0\xb1\xd0\xb5\xd1\x80\xd0\xb3 #\xd0\x94\xd0\xbe\xd0\xba\xd1\x82\xd0\xbe\xd1\x80\xd0\x94\xd0\xb6\xd0\xbe\xd0\xbd\xd0\x97\xd0\xbe\xd0\xb9\xd0\xb4\xd0\xb1\xd0\xb5\xd1\x80\xd0\xb3 #\xd0\xa4\xd1\x83\xd1\x82\xd1\x83\xd1\x80\xd0\xb0\xd0\xbc\xd0\xb0 #3\xd0\xb4 #3\xd0\xb4\xd0\xbf\xd1\x80\xd0\xb8\xd0\xbd\xd1\x82\xd0\xb5\xd1\x80 #3\xd0\xb4\xd0\xbf\xd0\xb5\xd1\x87\xd0\xb0\xd1\x82\xd1\x8c #\xd1\x82\xd0\xb0\xd0\xb9\xd0\xbc\xd0\xbb\xd0\xb0\xd0\xbf\xd1\x81 #\xd0\xbf\xd1\x80\xd0\xb8\xd0\xbd\xd1\x82\xd0\xb5\xd1\x80 #\xd0\xb3\xd0\xb8\xd0\xba #Zoidberg #JohnZoidberg #DoctorJohnZoidberg #Futurama #3d #3dprinter #3dprinting #3dprint #3dprinted #tech #timelapsevideo #instatech #satisfyingtimelapse #printer #timelapse #geeklife #geek #enjoythesilence'
+INFO [2020-09-18 17:28:11] [yourprints3d]  User: 'abbadonische'  |> followers: 830  |> following: 1083  |> relationship ratio: 0.76
+INFO [2020-09-18 17:28:39] [yourprints3d]  Quota Supervisor: jumped a like out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:28:39] [yourprints3d]  Like# [22/59]
+INFO [2020-09-18 17:28:39] [yourprints3d]  https://www.instagram.com/p/CFSkRo9JQjJ/
+INFO [2020-09-18 17:28:42] [yourprints3d]  Image from: b'veterinarysurgery'
+INFO [2020-09-18 17:28:42] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSkRo9JQjJ/'
+INFO [2020-09-18 17:28:42] [yourprints3d]  Description: b'The dog in the previous post had a growth plate injury (distal ulnar physic), resulting in angular limb deformity. Commonly this patient get valgus deformity, procurvatum, external rotation of the leg and possible elbow incongruency due to uneven growth of radius and ulna. I did a partial distal ulna ostectomy to prevent the elbow incongruity and procurvatum. After full growth a CT scan was done to correct the angular limb deformity. I used the center of rotation of angulation method (CORA) to correct the deformity using 3-D planning. I printed bone models using a 3-D printer and was able to rehearse the surgery prior to transferring it to the patient. Surgical pre planning and 3-D printing increase the accuracy of the correction and decrease surgical time significantly.\xc2\xa0\xc2\xa0Pretty close from bone models to post-operative radiographs!\xf0\x9f\x91\x8a\xf0\x9f\x8f\xbb\xf0\x9f\x91\x8d\xf0\x9f\x8f\xbb\n.\n.\n.\n#orthopedics #orthopedicsurgery #orthopaedics #orthopedicsurgeon #ortoped\xc3\xada #vet #veterinary #veterinarymedicine #veterinaryschool #vetschool #veterinario #veterinarystudent #veterinarysurgery #veterinarysurgeon #surgery #surgeon #bones #vet #\xe7\x8d\xa3\xe5\x8c\xbb #\xe5\x85\xbd\xe5\x8c\xbb #Tierarzt #veterin\xc3\xa1rio #veterin\xc3\xa6r\xc2\xa0\xc2\xa0#\xd0\xb2\xd0\xb5\xd1\x82\xd0\xb5\xd1\x80\xd0\xb8\xd0\xbd\xd0\xb0\xd1\x80\xd0\xbd\xd1\x8b\xd0\xb9 #veterin\xc3\xa4r #surgeon #surgery #3d #3dprint #3dprinting #3dprinter #3dmodel #3dmodeling'
+INFO [2020-09-18 17:28:47] [yourprints3d]  User: 'veterinarysurgery'  |> followers: 2422  |> following: 113  |> relationship ratio: 21.43
+INFO [2020-09-18 17:29:14] [yourprints3d]  Quota Supervisor: jumped a like out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:29:14] [yourprints3d]  Like# [23/59]
+INFO [2020-09-18 17:29:14] [yourprints3d]  https://www.instagram.com/p/CFSkCGfql64/
+INFO [2020-09-18 17:29:18] [yourprints3d]  Image from: b'filaprim3d'
+INFO [2020-09-18 17:29:18] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSkCGfql64/'
+INFO [2020-09-18 17:29:18] [yourprints3d]  Description: b'Parece que tenemos nuevo proyecto \xf0\x9f\x98\x8b\n\xc2\xbfQue ser\xc3\xa1? \xf0\x9f\xa4\x94\n.\n.\n.\n.\n.\n.\n.\n.\n#3dprinting #3dprint #3dprintingfun #customgifts #impresion3d #regalospersonalizados'
+INFO [2020-09-18 17:29:22] [yourprints3d]  User: 'filaprim3d'  |> followers: 321  |> following: 116  |> relationship ratio: 2.76
+INFO [2020-09-18 17:29:51] [yourprints3d]  Quota Supervisor: jumped a like out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:29:51] [yourprints3d]  Like# [24/59]
+INFO [2020-09-18 17:29:51] [yourprints3d]  https://www.instagram.com/p/CFSj4acDKmv/
+INFO [2020-09-18 17:29:55] [yourprints3d]  Image from: b'coog3dprints'
+INFO [2020-09-18 17:29:55] [yourprints3d]  Link: b'https://www.instagram.com/p/CFSj4acDKmv/'
+INFO [2020-09-18 17:29:55] [yourprints3d]  Description: b'My first full size helmet printed in one piece on the new #ender5plus #nova \n#cosplay #ironman #superhero #3dprinting #pla #plastic #costume #creality #cosplayer #comicon #3dprint # marvelstudios #endgame #3dprinter #3dmodel #guardians #novacorps #galaxy'
+INFO [2020-09-18 17:29:59] [yourprints3d]  User: 'coog3dprints'  |> followers: 289  |> following: 491  |> relationship ratio: 0.58
+INFO [2020-09-18 17:30:27] [yourprints3d]  Quota Supervisor: jumped a like out of hourly quotient!	~be fair with numbers :]
+
+WARNING [2020-09-18 17:30:27] [yourprints3d]  --> Like quotient reached its peak!	~leaving Like-By-Tags activity
+
+INFO [2020-09-18 17:30:27] [yourprints3d]  Tag: b'3dprint'
+INFO [2020-09-18 17:30:27] [yourprints3d]  Liked: 10
+INFO [2020-09-18 17:30:27] [yourprints3d]  Already Liked: 0
+INFO [2020-09-18 17:30:27] [yourprints3d]  Commented: 0
+INFO [2020-09-18 17:30:27] [yourprints3d]  Followed: 4
+INFO [2020-09-18 17:30:27] [yourprints3d]  Inappropriate: 0
+INFO [2020-09-18 17:30:27] [yourprints3d]  Not valid users: 7
+
+INFO [2020-09-18 17:30:27] [yourprints3d]  Starting to follow user `Followers`..
+INFO [2020-09-18 17:30:27] [yourprints3d]  User '3ntre.detalles' [1/3]
+INFO [2020-09-18 17:30:37] [yourprints3d]  Grabbed 10 usernames from '3ntre.detalles's `Followers` to do following
+
+INFO [2020-09-18 17:30:37] [yourprints3d]  Ongoing Follow [1/10]: now following 'smilena.arias'...
+INFO [2020-09-18 17:30:40] [yourprints3d]  User: 'smilena.arias'  |> followers: 145  |> following: 565  |> relationship ratio: 0.25
+INFO [2020-09-18 17:30:40] [yourprints3d]  smilena.arias is private account, by default skip
+
+INFO [2020-09-18 17:30:40] [yourprints3d]  Ongoing Follow [2/10]: now following 'santiagocartagena2020'...
+INFO [2020-09-18 17:30:43] [yourprints3d]  User: 'santiagocartagena2020'  |> followers: 4  |> following: 5  |> relationship ratio: 0.8
+INFO [2020-09-18 17:30:43] [yourprints3d]  User 'santiagocartagena2020's followers count is less than minimum limit  ~skipping user
+
+INFO [2020-09-18 17:30:43] [yourprints3d]  Ongoing Follow [3/10]: now following 'beatrizsuarez32'...
+INFO [2020-09-18 17:30:48] [yourprints3d]  User: 'beatrizsuarez32'  |> followers: 36  |> following: 13  |> relationship ratio: 2.76
+INFO [2020-09-18 17:30:48] [yourprints3d]  User 'beatrizsuarez32's following count is less than minimum limit  ~skipping user
+
+INFO [2020-09-18 17:30:48] [yourprints3d]  Ongoing Follow [4/10]: now following 'deanne_jc'...
+INFO [2020-09-18 17:30:51] [yourprints3d]  User: 'deanne_jc'  |> followers: 170  |> following: 740  |> relationship ratio: 0.22
+INFO [2020-09-18 17:30:51] [yourprints3d]  deanne_jc is private account, by default skip
+
+INFO [2020-09-18 17:30:51] [yourprints3d]  Ongoing Follow [5/10]: now following 'formatrol_'...
+INFO [2020-09-18 17:30:55] [yourprints3d]  User: 'formatrol_'  |> followers: 7844  |> following: 3998  |> relationship ratio: 1.96
+INFO [2020-09-18 17:30:55] [yourprints3d]  User 'formatrol_'s followers count exceeds maximum limit  ~skipping user
+
+INFO [2020-09-18 17:30:55] [yourprints3d]  Ongoing Follow [6/10]: now following 'katperezz_'...
+INFO [2020-09-18 17:30:58] [yourprints3d]  User: 'katperezz_'  |> followers: 479  |> following: 573  |> relationship ratio: 0.83
+INFO [2020-09-18 17:30:58] [yourprints3d]  katperezz_ is private account, by default skip
+
+INFO [2020-09-18 17:30:58] [yourprints3d]  Ongoing Follow [7/10]: now following 'luchastore_08'...
+INFO [2020-09-18 17:31:01] [yourprints3d]  User: 'luchastore_08'  |> followers: 180  |> following: 331  |> relationship ratio: 0.54
+INFO [2020-09-18 17:31:26] [yourprints3d]  Quota Supervisor: jumped a follow out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:31:30] [yourprints3d]  Follow per user: 0  |  Total Follow: 0
+
+INFO [2020-09-18 17:31:30] [yourprints3d]  Ongoing Follow [8/10]: now following 'beautysupplymedellin'...
+INFO [2020-09-18 17:31:34] [yourprints3d]  User: 'beautysupplymedellin'  |> followers: 93  |> following: 421  |> relationship ratio: 0.22
+INFO [2020-09-18 17:31:59] [yourprints3d]  Quota Supervisor: jumped a follow out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:32:04] [yourprints3d]  Follow per user: 0  |  Total Follow: 0
+
+INFO [2020-09-18 17:32:04] [yourprints3d]  Ongoing Follow [9/10]: now following 'libelulasstore2020'...
+INFO [2020-09-18 17:32:08] [yourprints3d]  User: 'libelulasstore2020'  |> followers: 114  |> following: 242  |> relationship ratio: 0.47
+INFO [2020-09-18 17:32:33] [yourprints3d]  Quota Supervisor: jumped a follow out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:32:36] [yourprints3d]  Follow per user: 0  |  Total Follow: 0
+
+INFO [2020-09-18 17:32:36] [yourprints3d]  Ongoing Follow [10/10]: now following 'friki3d_colombia'...
+INFO [2020-09-18 17:32:39] [yourprints3d]  User: 'friki3d_colombia'  |> followers: 478  |> following: 216  |> relationship ratio: 2.21
+INFO [2020-09-18 17:33:04] [yourprints3d]  Quota Supervisor: jumped a follow out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:33:08] [yourprints3d]  Follow per user: 0  |  Total Follow: 0
+
+INFO [2020-09-18 17:33:08] [yourprints3d]  User 'instan3d' [2/3]
+INFO [2020-09-18 17:33:17] [yourprints3d]  Grabbed 10 usernames from 'instan3d's `Followers` to do following
+
+INFO [2020-09-18 17:33:17] [yourprints3d]  Ongoing Follow [1/10]: now following 'cicla3d'...
+INFO [2020-09-18 17:33:21] [yourprints3d]  User: 'cicla3d'  |> followers: 3635  |> following: 4325  |> relationship ratio: 0.84
+INFO [2020-09-18 17:33:46] [yourprints3d]  Quota Supervisor: jumped a follow out of hourly quotient!	~be fair with numbers :]
+
+INFO [2020-09-18 17:33:50] [yourprints3d]  Follow per user: 0  |  Total Follow: 0
+
+INFO [2020-09-18 17:33:50] [yourprints3d]  Ongoing Follow [2/10]: now following 'juanypat_makers'...
+INFO [2020-09-18 17:33:55] [yourprints3d]  User: 'juanypat_makers'  |> followers: 1263  |> following: 1658  |> relationship ratio: 0.76
+WARNING [2020-09-18 17:34:20] [yourprints3d]  --> Follow quotient reached its peak!	~leaving Follow-By-Tags activity
+
+INFO [2020-09-18 17:34:21] [yourprints3d]  Follow per user: 0  |  Total Follow: 0
+
+WARNING [2020-09-18 17:34:21] [yourprints3d]  --> Follow quotient reached its peak!	~leaving Follow-User-Followers activity
+
+INFO [2020-09-18 17:34:21] [yourprints3d]  Finished following 3 users' `Followers`! xD
+
+INFO [2020-09-18 17:34:21] [yourprints3d]  Followed: 0
+INFO [2020-09-18 17:34:21] [yourprints3d]  Already followed: 0
+INFO [2020-09-18 17:34:21] [yourprints3d]  Not valid users: 6
+INFO [2020-09-18 17:34:21] [yourprints3d]  Liked: 0
+INFO [2020-09-18 17:34:21] [yourprints3d]  Already Liked: 0
+INFO [2020-09-18 17:34:21] [yourprints3d]  Commented: 0
+INFO [2020-09-18 17:34:21] [yourprints3d]  Inappropriate: 0
