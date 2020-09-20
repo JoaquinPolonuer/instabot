@@ -546,3 +546,22 @@ INFO [2020-09-18 17:34:21] [yourprints3d]  Liked: 0
 INFO [2020-09-18 17:34:21] [yourprints3d]  Already Liked: 0
 INFO [2020-09-18 17:34:21] [yourprints3d]  Commented: 0
 INFO [2020-09-18 17:34:21] [yourprints3d]  Inappropriate: 0
+INFO [2020-09-20 14:30:33] [yourprints3d]  Session started!
+INFO [2020-09-20 14:30:33] [yourprints3d]  -- Connection Checklist [1/2] (Internet Connection Status)
+INFO [2020-09-20 14:30:34] [yourprints3d]  - Internet Connection Status: ok
+INFO [2020-09-20 14:30:34] [yourprints3d]  - Current IP is "201.235.129.182" and it's from "Argentina/AR"
+INFO [2020-09-20 14:30:34] [yourprints3d]  -- Connection Checklist [2/2] (Hide Selenium Extension)
+INFO [2020-09-20 14:30:34] [yourprints3d]  - window.navigator.webdriver response: None
+INFO [2020-09-20 14:30:34] [yourprints3d]  - Hide Selenium Extension: ok
+INFO [2020-09-20 14:30:45] [yourprints3d]  Logged in successfully!
+INFO [2020-09-20 14:30:45] [yourprints3d]  Saving account progress...
+INFO [2020-09-20 14:31:09] [yourprints3d]  Total of links feched for analysis: 7
+INFO [2020-09-20 14:31:09] [yourprints3d]  ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO [2020-09-20 14:31:09] [yourprints3d]  ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO [2020-09-20 14:31:09] [yourprints3d]  New link found...
+INFO [2020-09-20 14:31:09] [yourprints3d]  [0 posts liked /10 amount]
+INFO [2020-09-20 14:31:09] [yourprints3d]  https://www.instagram.com/p/CFWfF5fnbxO/
+INFO [2020-09-20 14:31:12] [yourprints3d]  Image from: b'kamran_ccc_eng'
+INFO [2020-09-20 14:31:12] [yourprints3d]  Link: b'https://www.instagram.com/p/CFWfF5fnbxO/'
+INFO [2020-09-20 14:31:12] [yourprints3d]  Description: b'@radicchioradicchio\n\xf0\x9f\x8c\xba\xf0\x9f\x99\x8f\xf0\x9f\x91\x8f\xf0\x9f\x98\x8d\n#FrancescoClemente #Clemente #watercolor #watercolorpainting #paper @levygorvy'
+INFO [2020-09-20 14:31:17] [yourprints3d]  User: 'kamran_ccc_eng'  |> followers: 1968  |> following: 2483  |> relationship ratio: 0.79
