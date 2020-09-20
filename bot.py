@@ -9,7 +9,7 @@ set_workspace(os.getcwd())
 # crea una sesion
 # headless = True es sin abrir el navegador
 
-session = InstaPy(username="yourprints3d", password="megapolo10",headless=True, geckodriver_path='./geckodriver')
+session = InstaPy(username="yourprints3d", password="megapolo10",headless_browser=True, geckodriver_path='./geckodriver')
 
 # se loguea a instagram
 session.login()
