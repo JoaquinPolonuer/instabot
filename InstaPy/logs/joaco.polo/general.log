@@ -1,0 +1,58 @@
+INFO [2020-09-20 21:02:30] [joaco.polo]  Session started!
+INFO [2020-09-20 21:02:30] [joaco.polo]  -- Connection Checklist [1/2] (Internet Connection Status)
+INFO [2020-09-20 21:02:31] [joaco.polo]  - Internet Connection Status: ok
+INFO [2020-09-20 21:02:31] [joaco.polo]  - Current IP is "201.235.129.182" and it's from "Argentina/AR"
+INFO [2020-09-20 21:02:31] [joaco.polo]  -- Connection Checklist [2/2] (Hide Selenium Extension)
+INFO [2020-09-20 21:02:31] [joaco.polo]  - window.navigator.webdriver response: None
+INFO [2020-09-20 21:02:31] [joaco.polo]  - Hide Selenium Extension: ok
+INFO [2020-09-20 21:03:11] [joaco.polo]  Timed out with failure while explicitly waiting until title contains 'Login' string!
+
+INFO [2020-09-20 21:03:32] [joaco.polo]  Logged in successfully!
+INFO [2020-09-20 21:03:32] [joaco.polo]  Saving account progress...
+INFO [2020-09-20 21:03:51] [joaco.polo]  Total of links feched for analysis: 8
+INFO [2020-09-20 21:03:51] [joaco.polo]  ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO [2020-09-20 21:03:51] [joaco.polo]  ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO [2020-09-20 21:03:51] [joaco.polo]  New link found...
+INFO [2020-09-20 21:03:51] [joaco.polo]  [0 posts liked /10 amount]
+INFO [2020-09-20 21:03:51] [joaco.polo]  https://www.instagram.com/p/CFWWC1ZJsmi/
+INFO [2020-09-20 21:03:54] [joaco.polo]  Image from: b'me_irl_bot_two'
+INFO [2020-09-20 21:03:54] [joaco.polo]  Link: b'https://www.instagram.com/p/CFWWC1ZJsmi/'
+INFO [2020-09-20 21:03:54] [joaco.polo]  Description: b'me_irl'
+INFO [2020-09-20 21:03:57] [joaco.polo]  User: 'me_irl_bot_two'  |> followers: 12601  |> following: 1  |> relationship ratio: 12601.0
+INFO [2020-09-20 21:03:57] [joaco.polo]  User 'me_irl_bot_two's followers count exceeds maximum limit  ~skipping user
+
+WARNING [2020-09-20 21:03:57] [joaco.polo]  Post Randomly Skipped...
+
+WARNING [2020-09-20 21:03:57] [joaco.polo]  Post Randomly Skipped...
+
+WARNING [2020-09-20 21:03:57] [joaco.polo]  Post Randomly Skipped...
+
+INFO [2020-09-20 21:03:57] [joaco.polo]  New link found...
+INFO [2020-09-20 21:03:57] [joaco.polo]  [0 posts liked /10 amount]
+INFO [2020-09-20 21:03:57] [joaco.polo]  https://www.instagram.com/p/CFXQY1cJfYZ/
+INFO [2020-09-20 21:04:00] [joaco.polo]  Image from: b'me_irl_bot_two'
+INFO [2020-09-20 21:04:00] [joaco.polo]  Link: b'https://www.instagram.com/p/CFXQY1cJfYZ/'
+INFO [2020-09-20 21:04:00] [joaco.polo]  Description: b'me_irl'
+INFO [2020-09-20 21:04:03] [joaco.polo]  User: 'me_irl_bot_two'  |> followers: 12601  |> following: 1  |> relationship ratio: 12601.0
+INFO [2020-09-20 21:04:03] [joaco.polo]  User 'me_irl_bot_two's followers count exceeds maximum limit  ~skipping user
+
+INFO [2020-09-20 21:04:03] [joaco.polo]  New link found...
+INFO [2020-09-20 21:04:03] [joaco.polo]  [0 posts liked /10 amount]
+INFO [2020-09-20 21:04:03] [joaco.polo]  https://www.instagram.com/p/CFWaNM4pyvW/
+INFO [2020-09-20 21:04:06] [joaco.polo]  Image from: b'earthfever'
+INFO [2020-09-20 21:04:06] [joaco.polo]  Link: b'https://www.instagram.com/p/CFWaNM4pyvW/'
+INFO [2020-09-20 21:04:06] [joaco.polo]  Description: b'Fairytale library \xf0\x9f\xa5\xb0 You can check how to get your photos promoted in our account, use the link in our bio @earthfever\n\nTag your books lover friends! Munich\xe2\x80\x99s municipal law library, Germany. Photo by @themodernleper'
+INFO [2020-09-20 21:04:09] [joaco.polo]  User: 'earthfever'  |> followers: 1705849  |> following: 27  |> relationship ratio: 63179.59
+INFO [2020-09-20 21:04:09] [joaco.polo]  User 'earthfever's followers count exceeds maximum limit  ~skipping user
+
+WARNING [2020-09-20 21:04:09] [joaco.polo]  Post Randomly Skipped...
+
+INFO [2020-09-20 21:04:09] [joaco.polo]  New link found...
+INFO [2020-09-20 21:04:09] [joaco.polo]  [0 posts liked /10 amount]
+INFO [2020-09-20 21:04:09] [joaco.polo]  https://www.instagram.com/p/CFWPK58pDVJ/
+INFO [2020-09-20 21:04:13] [joaco.polo]  Image from: b'me_irl_bot_two'
+INFO [2020-09-20 21:04:13] [joaco.polo]  Link: b'https://www.instagram.com/p/CFWPK58pDVJ/'
+INFO [2020-09-20 21:04:13] [joaco.polo]  Description: b'me_irl'
+INFO [2020-09-20 21:04:16] [joaco.polo]  User: 'me_irl_bot_two'  |> followers: 12601  |> following: 1  |> relationship ratio: 12601.0
+INFO [2020-09-20 21:04:16] [joaco.polo]  User 'me_irl_bot_two's followers count exceeds maximum limit  ~skipping user
+
